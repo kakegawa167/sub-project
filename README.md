@@ -1,3 +1,3 @@
 # sub-project
 Git講座用　サブプロジェクト
-sub moduleの更新
+Git hub上でsub moduleの更新
